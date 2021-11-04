@@ -1,13 +1,13 @@
-package br.com.douglasmotta.whitelabeltutorial.ui
+package br.com.pedroabreudev.whitelabeltutorial.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupWithNavController
-import br.com.douglasmotta.whitelabeltutorial.R
-import br.com.douglasmotta.whitelabeltutorial.databinding.ActivityMainBinding
+import br.com.pedroabreudev.whitelabeltutorial.R
+import br.com.pedroabreudev.whitelabeltutorial.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
